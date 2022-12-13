@@ -16,4 +16,8 @@ int main() {
   printf("%s\n",_);
 }
 ```
+Output
+```
+Hello!
+```
 
